@@ -1,4 +1,4 @@
-vim-geocode
+vim-gocode
 ===========
 
 vim config for gocode
@@ -18,7 +18,7 @@ If you use [Vundle](https://github.com/gmarik/Vundle.vim):
 
     Plugin 'maralla/vim-gocode'
 
-Vundle user should go to `bundle/vim-gocode` and run `make`.
+Vundle user should go to `bundle/vim-gocode` directory and run `make`.
 
 Note
 ====
